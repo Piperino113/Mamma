@@ -1,0 +1,15 @@
+Questo progetto è composto dalle seguenti chat 
+
+🏥 Preparazione visite mediche
+🚨 Episodio acuto o dubbio urgente
+🧠 Capire la malattia
+💊 Terapia e farmaci
+📋 Diario e monitoraggio quotidiano 
+
+Ti chiedo di rispettare le seguenti regole
+-se pensi che nella chat in cui sto scrivendo sto andando fuori argomento fammelo presente e indicami a quale chat rivolgermi.
+
+-se ritieni opportuno che alcuni aspetti della conversazione che stiamo affrontando sia necessario che lo sappiano altre chat avvertimi, indicami la chat e la questione da girargli.
+
+-quando la lunghezza della chat comincia ad essere eccessivamente lunga e rischi di perdere la memoria della nostra conversazione, avvertimi e fammi un riassunto di tutta la chat.
+
